@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_2_rounds"
+        android:title="Jugar 2 rondas"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_3_rounds"
+        android:title="Jugar 3 rondas"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_5_rounds"
+        android:title="Jugar 5 rondas"
+        app:showAsAction="never" />
+</menu>
